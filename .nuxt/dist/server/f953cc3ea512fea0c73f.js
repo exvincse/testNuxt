@@ -1,0 +1,1 @@
+exports.ids=[3],exports.modules={47:function(t,e,r){"use strict";r.r(e);var n={layout:"red",middleware:"auth"},d=r(1);var component=Object(d.a)(n,(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[this._ssrNode("<h1>Users</h1> "),e("nuxt-child")],2)}),[],!1,(function(t){}),null,"4a0f4a9b");e.default=component.exports}};
